@@ -237,7 +237,11 @@ img {
   margin: 10px 0;
   color: gray;
 }
-
+.ans-section{
+  margin: 50px 30px;
+  border: 1px solid seagreen;
+  padding: 20px;
+}
 #liked{
   display: none;
 }
